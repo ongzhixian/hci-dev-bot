@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# ZX Custom
+ako*.ps1
+app-secrets.json

@@ -1,2 +1,5 @@
 # hci-dev-bot
-hci-dev-bot on GCP
+
+hci-dev-bot (Telegram bot) on GCP
+
+

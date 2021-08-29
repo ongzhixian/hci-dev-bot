@@ -1,0 +1,9 @@
+resources:
+  - name: hci_dev_bot_message
+    type: pubsub.v1.topic
+    properties:
+      topic: "demo_hci_dev_bot_message"
+  - name: demo2_hci_dev_bot_message
+    type: gcp-types/pubsub-v1:projects.topics
+    properties:
+      topic: "demo2_hci_dev_bot_message"
